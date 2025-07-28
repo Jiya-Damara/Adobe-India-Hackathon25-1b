@@ -1,0 +1,4 @@
+pymupdf
+scikit-learn==1.3.2
+numpy==1.24.3
+regex
