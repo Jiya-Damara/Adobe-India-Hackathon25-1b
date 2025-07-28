@@ -207,28 +207,6 @@ Every aspect meets hackathon requirements:
 
 ---
 
-## 📈 Scoring Optimization
-
-### Section Relevance (60 points)
-- Advanced TF-IDF semantic similarity matching
-- Multi-tier keyword hierarchies with weighted scoring
-- Context-aware persona-job alignment bonuses
-- Intelligent content filtering and penalty systems
-
-### Sub-Section Relevance (40 points)
-- Quality-focused refined text extraction
-- Meaningful section title generation
-- Context-aware paragraph selection
-- Comprehensive processing metadata
-
----
-
-## 🤝 Technical Documentation
-
-For detailed technical methodology, algorithm implementation, and performance optimization strategies, see [`approach_explanation.md`](approach_explanation.md).
-
----
-
 ## 📄 Challenge Context
 
 **Competition**: Adobe India Hackathon Challenge 1B
