@@ -51,6 +51,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
-
-# Adobe India Hackathon specific
-# Keep all PDFs and JSON files as they're required for submission
