@@ -21,7 +21,7 @@ A sophisticated document analysis system that extracts and ranks content with ma
 - 🔒 **Offline Operation**: No internet connectivity required during execution
 - 📏 **Lightweight**: ~50MB model size, well under 1GB constraint
 
----
+---   
 
 ## 🏆 Team
 
